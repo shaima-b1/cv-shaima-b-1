@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(220, 177, 222);
  }
   
  a:link {
@@ -18,13 +18,13 @@ body{
   
  .logo{
     position: absolute;
-    top: -250px;
+    top: -325px;
     right: 5px;
  }
   
  .image{
     position: absolute;
-    top: -60px;
+    top: -150px;
     right: 10px;
     height: 460px;
  }
@@ -61,4 +61,3 @@ body{
     right: 10px;
     height:200px;
  }
- 
